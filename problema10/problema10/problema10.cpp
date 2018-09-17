@@ -28,6 +28,6 @@ int sumaprimos(){
 }
 
 int main(){
-    cout<<"LA suma de primos hasta 2 millones es: "<<sumaprimos()<<endl;
+    cout<<"La suma de primos hasta 2 millones es: "<<sumaprimos()<<endl;
     return 0;
 }
